@@ -1,1 +1,3 @@
 Hello world!
+
+Testing new commit method.
